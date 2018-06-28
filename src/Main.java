@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         //test Mountain class
         Mountain mountain=new Mountain("HaungShan",12.099);
-        System.out.println("test version control");
+        System.out.println("test version control - commit and push at same time");
         System.out.println("name of mountain is: "+mountain.getName());
         System.out.println("height is: "+mountain.getLatitute());
         //
